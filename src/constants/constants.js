@@ -38,10 +38,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: 'Started my journey', },
   { year: 2018, text: 'Studied BS Computer Engineering', },
-  { year: 2020, text: 'Worked as a Freelancer', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2020, text: 'Worked as a Freelance Programmer', },
+  { year: 2021, text: 'Started my internship as Researcher/Developer at Philippine Nuclear Research Institute', },
+  { year: 2021, text: 'Worked as Software QA Analyst at Cafisglobal Inc.', },
+  { year: 2022, text: 'Worked as Software Engineer at FIS', },
 ];
 
 export const profile = [

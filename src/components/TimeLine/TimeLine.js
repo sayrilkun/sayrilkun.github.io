@@ -58,9 +58,9 @@ const Timeline = () => {
         — since then I pursued this career and now I have learned a lot of awesome 
         technologies that makes me wanna learn more!
         </SectionText>
-        {profile.map (({image}) => (
+        {/* {profile.map (({image}) => (
         <Img1 src = {image} />
-        ))}
+        ))} */}
         <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
             <>
                 {TimeLineData.map((item,index)=>(
